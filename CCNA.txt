@@ -1,0 +1,43 @@
+- Internet Access Technologies
+Home users, remote workers, and small offices typically require a connection to an ISP to access the internet.
+
+popular choices include broadband cable, broadband digital subscriber line (DSL), wireless WANs, and mobile services.
+
+SPs offer business-class interconnections. Popular business-class services include business DSL, leased lines, and Metro Ethernet.
+
+---
+
+- Home and Small Office Internet Connections
+Cable:  It provides a high bandwidth, high availability, and an always-on connection to the internet.
+DSL: high bandwidth, high availability, and an always-on connection to the internet.
+Cellular:
+Satellite:
+Dail-up Telephone:
+---
+
+- Businesses Internet Connections
+Dedicated Leased Line:
+Metro Ethernet:
+Business DSL:
+Satellite:
+---
+
+- The Converging Network
+
+Traditional Separate Networks:  Multiple services ran on multiple networks.
+Converged Networks: Converged data networks carry multiple services on one network.
+
+---
+
++++
+--- Reliable Networks
+
+--Network Architecture:
+
+
+
+
+
+
+
+
