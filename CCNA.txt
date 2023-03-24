@@ -114,7 +114,7 @@ Video is becoming a critical requirement for effective collaboration as organiza
 
 - Cloud Computing
 
-Cloud computing is possible because of data centers
+Cloud computing is possible because of data centers.
 
 
 
