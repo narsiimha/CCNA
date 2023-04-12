@@ -392,7 +392,9 @@ To create a banner message of the day on a network device, use the banner motd #
 Sw-Floor-1# configure terminal
 Sw-Floor-1(config)# banner motd #Authorized Access Only#
 
+- Video - Secure Administrative Access to a Switch
 
+See video
 
 
 
