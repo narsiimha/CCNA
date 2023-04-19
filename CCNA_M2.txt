@@ -395,6 +395,24 @@ Sw-Floor-1(config)# banner motd #Authorized Access Only#
 - Video - Secure Administrative Access to a Switch
 
 See video
+ok fine
+
+- Syntax Checker - Basic Device Configuration
+
+completed
+
+- Check Your Understanding - Basic Device Configuration
+
+completed
+
+---
+Save Configurations
+
+- Configuration Files
+
+
+
+
 
 
 
